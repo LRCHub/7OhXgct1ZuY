@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "輝きながら・・・",
+  "base_artist": "德永英明",
+  "createdAt": "2026-02-28T09:18:07.607821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋心 輝きながら",
+      "artist": "Naifu",
+      "has_synced": true,
+      "path": "select/01_恋心_輝きながら_Naifu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "輝きながら・・・",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": true,
+      "path": "select/02_輝きながら・・・_Hideaki_Tokunaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "輝きながら・・・",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/03_輝きながら・・・_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "輝きながら・・・",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": true,
+      "path": "select/04_輝きながら・・・_Hideaki_Tokunaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "輝きながら…",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/05_輝きながら..._徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "輝きながら...",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/06_輝きながら..._徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "輝きながら…",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/07_輝きながら..._Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "輝きながら・・・",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/08_輝きながら・・・_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "輝きながら…",
+      "artist": "Tokunaga, Hideaki",
+      "has_synced": true,
+      "path": "select/09_輝きながら..._Tokunaga,_Hideaki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋心 輝きながら",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/10_恋心_輝きながら_V.A..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "輝きながら…",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/11_輝きながら..._徳永英明.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "輝きながら…",
+      "artist": "Hideaki Tokunaga (徳永英明)",
+      "has_synced": true,
+      "path": "select/12_輝きながら..._Hideaki_Tokunaga_(徳永英明).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_01_輝きながら..._徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_02_輝きながら..._徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_03_輝きながら..._徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_04_輝きながら..._徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "輝きながら・・・",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_05_輝きながら・・・_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_06_輝きながら..._徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "輝きながら・・・",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_07_輝きながら・・・_徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_08_輝きながら..._徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_09_輝きながら..._徳永_英明.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "輝きながら…",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_10_輝きながら..._徳永_英明.txt"
+    }
+  ]
+}
